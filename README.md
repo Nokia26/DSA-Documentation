@@ -33,7 +33,15 @@ EDA involved the exploring of the Data to answer some questions about the data s
 ### Data Analysis
 This is where we include some basic lines of code or queries or even some of the DAX impressions used during your analysis
 
+```SQL
+SELECT A,B,C
+Where A> 15
 
+````
+
+### Analysis
+Add chart/pictures - download the chart to the main page then save link under here. The preview will show the actual chart/picture
+chart can also click and drag from wherever it is save on your computer.
       
 
 
